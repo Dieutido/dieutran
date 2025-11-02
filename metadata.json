@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Story to Image AI Generator",
+  "description": "An application that takes a story, generates descriptive prompts using Gemini, and then creates stunning images from those prompts using the Imagen model.",
+  "requestFramePermissions": []
+}
